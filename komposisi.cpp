@@ -2,8 +2,8 @@
 #include <string>
 using namespace std;
 
-#include "jantung.cpp"
-#include "manusia.cpp"
+#include "jantung.h"
+#include "manusia.h"
 
 int main()
 {
